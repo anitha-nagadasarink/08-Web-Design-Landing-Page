@@ -16,6 +16,8 @@
 @media only screen and (max-width: 991px) {
   nav {
     justify-content: space-between;
+    background-color: #fff;
+    z-index: 999999;
   }
 
   nav .nav-items{

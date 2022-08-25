@@ -22,8 +22,8 @@ I took 2 hours to complete the project with responsive
 
 ### Demo :
 
-![Web Site Image](https://github.com/anitha-nagadasarink/06-Plant-Home-Page/blob/HTML-CSS-Projects/photos/demo.png)
+![Web Site Image](https://github.com/anitha-nagadasarink/08-Web-Design-Landing-Page/blob/HTML-CSS-Projects/images/demo.png)
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://plant-shopping-webpage.netlify.app/)
+[Live Link !](https://web-design-wedpage.netlify.app/)
